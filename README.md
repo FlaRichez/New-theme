@@ -1,1 +1,1 @@
-# New-theme
+New theme
